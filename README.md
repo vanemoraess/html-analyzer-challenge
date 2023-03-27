@@ -17,10 +17,7 @@ O projeto é um programa Java simples que analisa o HTML de uma página da web p
 ## 🤝 Contribuindo
 
 Gostou do projeto e quer contribuir? Sinta-se livre para enviar um pull request. Toda contribuição é bem-vinda! 😃
-
-## 📝 Licença
-
-Este projeto está licenciado sob a licença MIT. 
+ 
 
 ##👩‍💻 Autora
 
@@ -28,4 +25,4 @@ Vanessa Moraes
 
 ## 📧 Contato
 
-Tem alguma dúvida ou sugestão? Entre em contato comigo pelo meu email: [vanessamoraes2208@gmail.com](mailto: vanessamoraes2208@gmail.com).
+Tem alguma dúvida ou sugestão? Entre em contato comigo pelo meu email: [vanessamoraes2208@gmail.com]
