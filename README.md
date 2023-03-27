@@ -11,8 +11,8 @@ O projeto é um programa Java simples que analisa o HTML de uma página da web p
 
 1. Clone este repositório
 2. Navegue até a pasta do projeto
-3. Execute o comando `javac Main.java` para compilar o programa
-4. Execute o comando `java Main` para executar o programa
+3. Execute o comando `javac HtmlAnalyzer.java` para compilar o programa
+4. Execute o comando `java HtmlAnalyzer <URL>` para executar o programa
 
 ## 🤝 Contribuindo
 
